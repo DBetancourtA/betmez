@@ -1,0 +1,324 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Betmez</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700,900'>
+		<!--<script src="https://kit.fontawesome.com/fc8cebf835.js" crossorigin="anonymous"></script>-->
+		<link rel="icon"  type="image/png" href="/images/iconoBetmez.png">
+
+		<meta property="og:type" content="website" />
+		<meta property="og:title" content="Betmez" />
+		<meta property="og:description" content="Un diseño web elegante para iniciar un Negocio " />
+		<meta property="og:image" content="https://www.betmez.com/images/resizeimage.png" />
+		<meta property="og:url" content="https://www.betmez.com" />
+		<meta property="og:site_name" content="Betmez" />
+		
+	</head>
+	<body class="homepage is-preload">
+		<div id="page-wrapper">
+
+
+	<!--
+		<div>
+				<script src="assets/js/script.js"></script>
+				<?php
+						//include './hero/index.php';
+					?>
+				</div>s
+	 -->
+				
+			<!-- Header -->
+				<section id="header" class="wrapper">
+				<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700,900'>
+				<link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css'>
+				<link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css'>
+				<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
+				<script src='https://cdnjs.cloudflare.com/ajax/libs/typed.js/1.1.1/typed.min.js'></script>
+				<script src='https://cdnjs.cloudflare.com/ajax/libs/gsap/1.18.0/TweenMax.min.js'></script>
+				
+				<script type="text/javascript">
+				$(function() {
+				$(".p2").typed({
+					strings: ["DISEÑO", "SISTEMAS", "AUDIOVISUAL"],
+					typeSpeed: 50,
+					backSpeed: 10,
+					backDelay: 2000,
+					showCursor: false,
+					loop: true
+				});
+				});
+				</script>
+					<section class="hero" style="margin-bottom: 0px;">
+						<div class="inner-text">
+							<p>
+								<h1 style="font-size:8vw;" class="p1">BETMEZ</h1>
+								<h1 style="font-size:8vw;" class="p2">DEVELOPER</h1>
+								<br>
+								<img  src="images/betmez invertido.png" style="width: 10vw;left: 20%;position: relative;" alt="" />
+							</p>
+						</div>
+					</section>
+					<!-- Logo -->
+						<!--<div id="logo">-->
+							<!--<h1><a href="index.html">Betmez</a></h1>-->
+							<!--<img style="width: 50%;" src="images/ISO LOGO BETMEZ.png" alt="" />-->
+							<!--<p>Diseño, Sistemas y Audiovisual</p>-->
+						<!--</div>-->
+
+					<!-- Nav -->
+						<nav id="nav">
+							<ul>
+								<li class="current"><a href="index.html">Home</a></li>
+								<li><a  >Sobre Nosotros</a> <!--href="SobreNosotros.php"-->
+									<!--<ul><li><a >Proximante</a></li></ul>-->
+								</li>
+								<li><a>Servicios</a>
+									<!--<ul><li><a>Proximante</a></li></ul>-->
+								</li><!--href="left-sidebar.html"-->
+								<li><a>Clientes</a>
+									<!--<ul><li><a>Proximante</a></li></ul>-->
+								</li><!--href="right-sidebar.html"-->
+								<!--href="no-sidebar.html"-->
+								<li><a href="Contactenos.php">Contactenos</a></li>
+							</ul>
+						</nav>
+
+				</section>
+
+				<!--whatsapp-->
+				<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+				<a href="https://wa.me/593995876346&text=Hola,%20quisiera%20m%C3%A1s%20informaci%C3%B3n." class="floater" target="_blank">
+				<i class="fa fa-whatsapp my-floater"></i>
+				</a>
+
+			<!-- Intro -->
+				<section id="intro" class="wrapper style1">
+					<div class="title"></div>
+					<div class="container">
+						<p class="style1" style="color: #000">Entonces, en caso de que te estés preguntando de qué se trata todo esto ...</p>
+						<p class="style2">
+							Un diseño web elegante para iniciar un negocio.</a>
+						</p>
+						<p class="style3" >Lo <strong style="color: #000">soñaste</strong>, lo podemos <strong style="color: #000">construir</strong> y hacer <strong style="color: #000">crecer</strong> tu negocio.<br>
+						Todo lo que necesite tu negocio digital a un click de distancia!
+						</p>
+						<ul class="actions">
+							<li><a href="Contactenos.php" class="button style3 large">Contáctanos</a></li>
+						</ul>
+					</div>
+				</section>
+
+			<!-- Main -->
+				<section id="main" class="wrapper style2">
+					<div class="title">Nuestros Servicios</div>
+					<div class="container">
+
+						<!-- Image -->
+							<a href="#" class="image featured">
+								<img src="images/pic011.jpeg" alt="" />
+							</a>
+
+						<!-- Features -->
+							<section id="features">
+								<header class="style1">
+									<h2>Ofrecemos a su disposicion el siguiente catalogo de servicios.</h2>
+									<p>Contamos con profesionales altamente capacitados para ayudarlo y cumplir con sus requerimientos.</p>
+								</header>
+								<div class="feature-list">
+									<div class="row">
+										<div class="col-6 col-12-medium">
+											<div class="row">
+												<div class="col-2 col-4-medium" style="padding-top: 5%;width: 25%;"><img style="width: 100%;" src="images/diseno web.png"/></div> 
+												<div class="col-10 col-8-medium" style="width: 75%;"><h3 class="icon solid">Desarrollo y diseño de paginas web</h3></div>
+											</div>
+										</div>
+										<div class="col-6 col-12-medium">
+											<div class="row">
+												<div class="col-2 col-4-medium" style="padding-top: 5%;width: 25%;"><img style="width: 100%;" src="images/comunity manager.png"/></div> 
+												<div class="col-10 col-8-medium" style="width: 75%;"><h3 class="icon solid">Community Manager</h3></div>
+											</div>
+										</div>
+										<div class="col-6 col-12-medium">
+											<div class="row">
+												<div class="col-2 col-4-medium" style="padding-top: 5%;width: 25%;"><img style="width: 100%;" src="images/mantenimientos.png"/></div> 
+												<div class="col-10 col-8-medium" style="width: 75%;"><h3 class="icon solid">Soporte y mantenimiento de equipos informaticos</h3></div>
+											</div>
+										</div>
+										<div class="col-6 col-12-medium">
+											<div class="row">
+												<div class="col-2 col-4-medium" style="padding-top: 5%;width: 25%;"><img style="width: 100%;" src="images/editorial.png"/></div> 
+												<div class="col-10 col-8-medium" style="width: 75%;"><h3 class="icon solid">Diseño Editorial</h3></div>
+											</div>
+										</div>
+										<div class="col-6 col-12-medium">
+											<div class="row">
+												<div class="col-2 col-4-medium" style="padding-top: 10%;width: 25%;"><img style="width: 100%;" src="images/multimedia.png"/></div> 
+												<div class="col-10 col-8-medium" style="width: 75%;"><h3 class="icon solid">Fotografia Profesional y Videos Corporativos</h3></div>
+											</div>
+										</div>
+										<div class="col-6 col-12-medium">
+											<div class="row">
+												<div class="col-2 col-4-medium" style="padding-top: 10%;width: 25%;"><img style="width: 100%;" src="images/folletos.png"/></div> 
+												<div class="col-10 col-8-medium" style="width: 75%;"><h3 class="icon solid">Diseño de folletería y papelería corporativa / empresarial</h3></div>
+											</div>
+										</div>
+									</div>
+								</div>
+								<ul class="actions special">
+									<li><a href="Contactenos.php" class="button style1 large">Contactenos</a></li>
+								</ul>
+							</section>
+
+					</div>
+				</section>
+
+			<!-- Highlights -->
+			<!--	<section id="highlights" class="wrapper style3">
+					<div class="title">The Endorsements</div>
+					<div class="container">
+						<div class="row aln-center">
+							<div class="col-4 col-12-medium">
+								<section class="highlight">
+									<a href="#" class="image featured"><img src="images/pic02.jpg" alt="" /></a>
+									<h3><a href="#">Aliquam diam consequat</a></h3>
+									<p>Eget mattis at, laoreet vel amet sed velit aliquam diam ante, dolor aliquet sit amet vulputate mattis amet laoreet lorem.</p>
+									<ul class="actions">
+										<li><a href="#" class="button style1">Learn More</a></li>
+									</ul>
+								</section>
+							</div>
+							<div class="col-4 col-12-medium">
+								<section class="highlight">
+									<a href="#" class="image featured"><img src="images/pic03.jpg" alt="" /></a>
+									<h3><a href="#">Nisl adipiscing sed lorem</a></h3>
+									<p>Eget mattis at, laoreet vel amet sed velit aliquam diam ante, dolor aliquet sit amet vulputate mattis amet laoreet lorem.</p>
+									<ul class="actions">
+										<li><a href="#" class="button style1">Learn More</a></li>
+									</ul>
+								</section>
+							</div>
+							<div class="col-4 col-12-medium">
+								<section class="highlight">
+									<a href="#" class="image featured"><img src="images/pic04.jpg" alt="" /></a>
+									<h3><a href="#">Mattis tempus lorem</a></h3>
+									<p>Eget mattis at, laoreet vel amet sed velit aliquam diam ante, dolor aliquet sit amet vulputate mattis amet laoreet lorem.</p>
+									<ul class="actions">
+										<li><a href="#" class="button style1">Learn More</a></li>
+									</ul>
+								</section>
+							</div>
+						</div>
+					</div>
+				</section>-->
+
+			<!-- Footer -->
+				<section id="footer" class="wrapper">
+					
+						<!--<header class="style1">
+							<h2>Tienes alguna duda o inquietud?</h2>
+							<p>
+								Estaremos gustosos en saber de ti y poder ayudarte.
+							</p>
+						</header>-->
+						<!--<div class="row">
+							<div class="col-6 col-12-medium">
+
+								
+									<section>
+										<form method="post" action="#">
+											<div class="row gtr-50">
+												<div class="col-6 col-12-small">
+													<input type="text" name="nombre" id="contact-name" placeholder="Nombre" />
+												</div>
+												<div class="col-6 col-12-small">
+													<input type="text" name="telefono" id="contact-phone" placeholder="Telefono" />
+												</div>
+												<div class="col-12 col-12-small">
+													<input type="text" name="email" id="contact-email" placeholder="Email" />
+												</div>
+												<div class="col-12">
+													<textarea name="mensaje" id="contact-mensaje" placeholder="Mensaje" rows="4"></textarea>
+												</div>
+												<div class="col-12">
+													<ul class="actions">
+														<li><input type="submit" class="style1" value="Enviar" /></li>
+														<li><input type="reset" class="style2" value="Borrar" /></li>
+													</ul>
+												</div>
+											</div>
+										</form>
+									</section>
+
+							</div>
+							<div class="col-6 col-12-medium">
+
+									<section class="feature-list small">
+										<div class="row">
+											<div class="col-6 col-12-small">
+												<section>
+													<h3 class="icon solid fa-home">Dirección</h3>
+													<p>
+														Av. Malecón y Padre Aguirre<br />
+														Edificio El Fortín<br />
+														Piso 4
+													</p>
+												</section>
+											</div>
+											<div class="col-6 col-12-small">
+												<section>
+													<h3 class="icon solid fa-comment">Social</h3>
+													<p>
+														<i class="fa fa-instagram" aria-hidden="true" style ="color: white;"> </i><a href="https://www.instagram.com/betmez.ec/"> @betmez.ec</a><br />
+														<i class="fab fa-linkedin" aria-hidden="true" style ="color: white;"></i><a href="https://linkedin.com/company/betmez" target="_blank"> LinkedIn/Betmez</a><br />
+														<i class="fab fa-facebook-square" aria-hidden="true" style ="color: white;"></i><a href="https://www.facebook.com/Betmez-112929120477207/" target="_blank" > facebook.com/Betmez</a>
+													</p>
+												</section>
+											</div>
+											<div class="col-6 col-12-small">
+												<section>
+													<h3 class="icon solid fa-envelope">Email</h3>
+													<p>
+														<a href="mailto:info@betmez.com" target="_blank">info@betmez.com</a>
+													</p>
+												</section>
+											</div>
+											<div class="col-6 col-12-small">
+												<section>
+													<h3 class="icon solid fa-phone">Telefono</h3>
+													<p>
+														<a href="https://wa.me/593992925850?text=Me%20interesa%20informacion%20sobre%20sus%20servicios,%20gracias!">
+															(+593) 0995876346 
+														</a>
+													</p>
+												</section>
+											</div>
+										</div>
+									</section>
+
+							</div>
+						</div>-->
+						
+					
+					<div id="copyright">
+							<ul>
+								<li>&copy; Betmez.</li><li>Design: <a href="https://betmez.com">BETMEZ</a></li>
+							</ul>
+						</div>
+				</section>
+
+		</div>
+
+		<!-- Scripts -->
+		
+		<!--	<script src="assets/js/jquery.min.js"></script>-->
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
